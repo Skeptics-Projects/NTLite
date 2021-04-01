@@ -1,2 +1,5 @@
 # NTLite
-NTLite is not our program, but is used for creation of it. We recommend you use NTLite so you can nake your own custom Windows OS the way that YOU want it.
+NTLite is used for the creation of our custom windows editions, so big shoutout to them. We do not own NTLite at all. We are not related to NTLite either.
+
+# Installation Link
+This operating system is currently in the works. We will add the link once we get it into a good state.
